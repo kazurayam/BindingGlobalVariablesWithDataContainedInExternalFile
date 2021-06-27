@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Controller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f392d337-4636-4d33-a3eb-751c2a248402</testCaseGuid>
+   <variable>
+      <defaultValue>'foo'</defaultValue>
+      <description></description>
+      <id>7ee403b2-80c9-46fe-b7d0-cec8f4e4e3ec</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'bar'</defaultValue>
+      <description></description>
+      <id>2ee6449a-4c3c-480a-846c-2bdf6d8c7f89</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'baz'</defaultValue>
+      <description></description>
+      <id>b2868f7c-9c21-4864-a9dc-cca3893da7b6</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
